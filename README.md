@@ -4,7 +4,7 @@ WordPress has been gaining a foothold in the general content management system (
 
 ==== <b>Installation </b>====
 
-1. Download 'Custom Post For WordPress'.
+1. Download <code>Custom Post For WordPress</code>.
 2. Upload the 'Custom Post For WordPress' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
 3. Activate 'Custom Post For WordPress' from your Plugins page. (You'll show "WPCustomPost" Menu in your admin sidebar.)
 4. Then add new for WPCustomPost
