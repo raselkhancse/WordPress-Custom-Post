@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom Post
- * Plugin URI: http://plugin.url.com
+ * Plugin URI: http://www.mediafire.com/download/n7w0io7buf1xr9a/Custom+Post+For+WordPress.zip
  * Description: WordPress has been gaining a foothold in the general content management system (CMS) game for a few years now, but the real breakthrough was the custom post type mechanism which allows for the creation of a wide variety of content <a href="edit.php?post_type=custompost">Create your post</a>
  * Version: 1.0.0
  * Author: Rasel Khan
