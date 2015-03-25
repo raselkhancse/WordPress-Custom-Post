@@ -8,5 +8,5 @@ WordPress has been gaining a foothold in the general content management system (
 2. Upload the 'Custom Post For WordPress' directory to your <code>/wp-content/plugins/</code> directory, using your favorite method (ftp, sftp, scp, etc...)
 3. Activate <code>Custom Post For WordPress</code> from your Plugins page. (You'll show "WPCustomPost" Menu in your admin sidebar.)
 4. Then add new for WPCustomPost
-5. After post has been created successfully then add new (post or page), then simply add shortcode <code>[khan]</code> in your post or page, You'll show your all custompost:)
+5. After post has been created successfully then add new (post or page), then simply add shortcode <code>[khan]</code> in your post or page, You'll show your all custompost :)
 
